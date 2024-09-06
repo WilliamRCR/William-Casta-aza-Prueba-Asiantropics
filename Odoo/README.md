@@ -14,7 +14,7 @@ Automatización del envío de la encuesta una vez que la factura de la venta ha 
 Seguimiento y reporte automático de las respuestas de los clientes para obtener métricas de satisfacción.
 Tiempo estimado de implementación: 1 a 2 semanas, incluyendo la configuración del flujo automatizado y la creación de la encuesta personalizada.
 
-#  Desarrollo de una Integración Automática vía API
+#  Propuesta 3: Desarrollo de una Integración Automática vía API
 Se puede desarrollar una integración directa entre la aplicación externa desarrollada en Python y Odoo utilizando las APIs de Odoo. Esta solución permite que los datos sobre los costos de gasolina, mantenimiento y depreciación se sincronicen automáticamente sin intervención manual.
 Funcionalidades:
 La aplicación en Python enviaría los datos automáticamente a Odoo a través de una llamada API.
